@@ -101,3 +101,13 @@ Protecting IoT devices and data from unauthorized access, ensuring secure commun
 4. Security camera with motion detection
 5. Weather station with data logging
 6. Smart doorbell with notifications
+
+## Extra info
+## Getting Started Projects
+
+1. Temperature and humidity monitoring system
+2. Smart home automation with voice control
+3. Plant watering system with soil moisture sensor
+4. Security camera with motion detection
+5. Weather station with data logging
+6. Smart doorbell with notifications
